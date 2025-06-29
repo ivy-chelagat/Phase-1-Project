@@ -42,14 +42,14 @@ The dataset includes:
 While many accidents fall under "unknown" flight phase, the high numbers during cruise and maneuvering suggest that risks persist even in stable flight. Training and monitoring should cover the entire flight path.
 
    
-3. **Accidents by Aircraft Make:**  
+2. **Accidents by Aircraft Make:**  
   ![Accidents by Aircraft Make (1)](https://github.com/user-attachments/assets/369db53f-e18a-46a6-affc-37b07d4ff4b0)
 
 Brands like Cessna, Piper, and Beech appear frequently, but they also dominate the market.
 High accident counts may reflect high usage, not necessarily high risk. These models still deserve closer risk analysis based on severity
 
 
-5. **Accident Trends Over Time:**  
+3. **Accident Trends Over Time:**  
    ![Accident Trends Over Time (1)](https://github.com/user-attachments/assets/c43cf4db-fc90-44d8-9bee-97d249541897)
 
  Safety standards, better training, and improved aircraft systems are working. This is the right environment for safe investment.
