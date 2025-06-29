@@ -14,6 +14,8 @@ By identifying risk patterns across aircraft types, accident causes, and flight 
 Python: Data cleaning, analysis and visual exploration (Pandas, Matplotlib, Seaborn)
 Tableau: Dashboard creation and presentation of key insights for stakeholders
 
+![Dashboard 1](https://github.com/user-attachments/assets/d483860d-6f49-4e87-b848-11debb7b63ea)
+
 ## Key Insights
 Aircraft Type Matters: Aircraft with turbine engines show better safety performance compared to piston-powered models.
 Accident Phases: Many incidents occur outside takeoff and landing — especially during cruise and maneuvering, pointing to training gaps.
